@@ -1,0 +1,6 @@
+{
+  "name": "贾尼别科夫效应：真空T形刚体翻转与受力分析实验室",
+  "description": "基于刚体欧拉动力学方程与RK4辛级数值积分的真空T形金属旋转翻转（中间轴定理）3D物理仿真与逐帧受力分析实验室。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
